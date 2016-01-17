@@ -138,7 +138,7 @@ rm SHA256SUMS
 Note: check that SHA256SUMS itself doesn't end up in SHA256SUMS, which is a spurious/nonsensical entry.
 
 - Upload zips and installers, as well as `SHA256SUMS.asc` from last step, to the bitcoin.org server
-  into `/var/www/bin/bitcoin-core-${VERSION}`
+  into `/var/www/bin/_REBRAND_LOWERCASE_HYPHENATED_NAME_-${VERSION}`
 
 - Update bitcoin.org version
 
