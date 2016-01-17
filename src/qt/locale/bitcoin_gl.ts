@@ -1905,7 +1905,7 @@
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>_REBRAND_TRANSLATION_SOFTWARE_LOWERCASE_HYPHENATED_NAME_</name>
     <message>
         <source>Options:</source>
         <translation>Opcións:</translation>

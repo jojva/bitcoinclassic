@@ -3576,7 +3576,7 @@
     </message>
 </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>_REBRAND_TRANSLATION_SOFTWARE_LOWERCASE_HYPHENATED_NAME_</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+250"/>
         <source>Options:</source>

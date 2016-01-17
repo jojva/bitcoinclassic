@@ -73,6 +73,6 @@ f.write('static const char UNUSED *bitcoin_strings[] = {\n')
 messages.sort(key=operator.itemgetter(0))
 for (msgid, msgstr) in messages:
     if msgid != EMPTY:
-        f.write('QT_TRANSLATE_NOOP("bitcoin-core", %s),\n' % ('\n'.join(msgid)))
+        f.write('QT_TRANSLATE_NOOP("_REBRAND_TRANSLATION_SOFTWARE_LOWERCASE_HYPHENATED_NAME_", %s),\n' % ('\n'.join(msgid)))
 f.write('};\n')
 f.close()

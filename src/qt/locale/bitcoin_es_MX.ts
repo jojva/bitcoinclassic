@@ -1049,7 +1049,7 @@
     </message>
     </context>
 <context>
-    <name>bitcoin-core</name>
+    <name>_REBRAND_TRANSLATION_SOFTWARE_LOWERCASE_HYPHENATED_NAME_</name>
     <message>
         <source>&lt;category&gt; can be:</source>
         <translation>&lt;categoria&gt; puede ser:</translation>
