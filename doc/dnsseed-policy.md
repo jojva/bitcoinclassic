@@ -1,7 +1,7 @@
 Expectations for DNS Seed operators
 ====================================
 
-Bitcoin Classic attempts to minimize the level of trust in DNS seeds,
+_REBRAND_SOFTWARE_NAME_ attempts to minimize the level of trust in DNS seeds,
 but DNS seeds still pose a small amount of risk for the network.
 As such, DNS seeds must be run by entities which have some minimum
 level of trust within the Bitcoin community.
@@ -42,7 +42,7 @@ details of their operating practices.
 related to the DNS seed operation.
 
 If these expectations cannot be satisfied the operator should
-discontinue providing services and contact the active Bitcoin Classic
+discontinue providing services and contact the active _REBRAND_SOFTWARE_NAME_
 development team as well as posting on
 [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev).
 

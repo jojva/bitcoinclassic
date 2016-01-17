@@ -68,11 +68,11 @@ public:
 /** nServices flags */
 enum {
     // NODE_NETWORK means that the node is capable of serving the block chain. It is currently
-    // set by all Bitcoin Classic nodes, and is unset by SPV clients or other peers that just want
+    // set by all _REBRAND_SOFTWARE_NAME_ nodes, and is unset by SPV clients or other peers that just want
     // network services but don't provide them.
     NODE_NETWORK = (1 << 0),
     // NODE_GETUTXO means the node is capable of responding to the getutxo protocol request.
-    // Bitcoin Classic does not support this but a patch set called Bitcoin XT does.
+    // _REBRAND_SOFTWARE_NAME_ does not support this but a patch set called Bitcoin XT does.
     // See BIP 64 for details on how this is implemented.
     NODE_GETUTXO = (1 << 1),
 

@@ -1,7 +1,7 @@
 Translation Strings Policy
 ===========================
 
-This document provides guidelines for internationalization of the Bitcoin Classic software.
+This document provides guidelines for internationalization of the _REBRAND_SOFTWARE_NAME_ software.
 
 How to translate?
 ------------------

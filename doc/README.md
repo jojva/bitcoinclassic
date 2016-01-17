@@ -1,9 +1,9 @@
-Bitcoin Classic 0.11.2
+_REBRAND_SOFTWARE_NAME_ 0.11.2
 =====================
 
 Setup
 ---------------------
-[Bitcoin Classic](http://bitcoin.org/en/download) is a Bitcoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Bitcoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+[_REBRAND_SOFTWARE_NAME_](http://bitcoin.org/en/download) is a Bitcoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Bitcoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
 Running
 ---------------------

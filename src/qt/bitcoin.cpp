@@ -162,7 +162,7 @@ void DebugMessageHandler(QtMsgType type, const QMessageLogContext& context, cons
 }
 #endif
 
-/** Class encapsulating Bitcoin Classic startup and shutdown.
+/** Class encapsulating _REBRAND_SOFTWARE_NAME_ startup and shutdown.
  * Allows running startup and shutdown in a different thread from the UI thread.
  */
 class BitcoinCore: public QObject
