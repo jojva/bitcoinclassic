@@ -343,7 +343,7 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -351,8 +351,8 @@
         <translation>Solicitar pagos (xenera códigos QR e bitcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Sobre Bitcoin Core</translation>
+        <source>&amp;About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>&amp;Sobre _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -670,7 +670,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -678,7 +678,7 @@
         <translation>versión</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Sobre Bitcoin core</translation>
     </message>
     <message>
@@ -709,7 +709,7 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -1489,12 +1489,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Os desarrolladores de Bitcoin Core</translation>
+        <source>The _REBRAND_TRANSLATION_SOFTWARE_NAME_ developers</source>
+        <translation>Os desarrolladores de _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>[testnet]</source>

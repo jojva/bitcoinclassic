@@ -287,8 +287,8 @@
         <translation>&amp;URI azonosító megnyitása...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core kliens</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ client</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ kliens</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -339,8 +339,8 @@
         <translation>&amp;Fogadás</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Bitcoin Core információ megjelenítése</translation>
+        <source>Show information about _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ információ megjelenítése</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -379,16 +379,16 @@
         <translation>Fül eszköztár</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Fizetési kérelem (QR-kódot és "bitcoin:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;A Bitcoin Core-ról</translation>
+        <source>&amp;About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>&amp;A _REBRAND_TRANSLATION_SOFTWARE_NAME_-ról</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -407,8 +407,8 @@
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>A Bitcoin Core súgóüzenet megjelenítése a Bitcoin lehetséges parancssori kapcsolóival.</translation>
+        <source>Show the _REBRAND_TRANSLATION_SOFTWARE_NAME_ help message to get a list with possible Bitcoin command-line options</source>
+        <translation>A _REBRAND_TRANSLATION_SOFTWARE_NAME_ súgóüzenet megjelenítése a Bitcoin lehetséges parancssori kapcsolóival.</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -766,8 +766,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>version</source>
@@ -778,8 +778,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>A Bitcoin Core-ról</translation>
+        <source>About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>A _REBRAND_TRANSLATION_SOFTWARE_NAME_-ról</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -801,12 +801,12 @@
         <translation>Üdvözlünk</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Üdvözlünk a Bitcoin Core-ban.</translation>
+        <source>Welcome to _REBRAND_TRANSLATION_SOFTWARE_NAME_.</source>
+        <translation>Üdvözlünk a _REBRAND_TRANSLATION_SOFTWARE_NAME_-ban.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>A Bitcoin Core le fogja tölteni és tárolni fogja a Bitcoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>A _REBRAND_TRANSLATION_SOFTWARE_NAME_ le fogja tölteni és tárolni fogja a Bitcoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -817,8 +817,8 @@
         <translation>Saját adatkönyvtár használata:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -891,7 +891,7 @@
         <translation>&amp;Hálózat</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start _REBRAND_TRANSLATION_SOFTWARE_NAME_ on system login</source>
         <translation>A Bitcoin elindítása bejelentkezéskor</translation>
     </message>
     <message>
@@ -1552,8 +1552,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>A Bitcoin Core leáll...</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ is shutting down...</source>
+        <translation>A _REBRAND_TRANSLATION_SOFTWARE_NAME_ leáll...</translation>
     </message>
     </context>
 <context>
@@ -1646,12 +1646,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>A Bitcoin Core fejlesztői</translation>
+        <source>The _REBRAND_TRANSLATION_SOFTWARE_NAME_ developers</source>
+        <translation>A _REBRAND_TRANSLATION_SOFTWARE_NAME_ fejlesztői</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2149,8 +2149,8 @@
         <translation>Adatkönyvtár kiválasztása induláskor (alapbeállítás: 0)</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i A Bitcoin Core Fejlesztői</translation>
+        <source>Copyright (C) 2009-%i The _REBRAND_TRANSLATION_SOFTWARE_NAME_ Developers</source>
+        <translation>Copyright (C) 2009-%i A _REBRAND_TRANSLATION_SOFTWARE_NAME_ Fejlesztői</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

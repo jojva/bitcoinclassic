@@ -314,7 +314,7 @@
         <translation>верзија</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>O Bitcoin Coru</translation>
     </message>
     <message>

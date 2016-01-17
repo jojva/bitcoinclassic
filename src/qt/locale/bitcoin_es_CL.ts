@@ -227,7 +227,7 @@
         <translation>Abrir y url...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ client</source>
         <translation>cliente bitcoin core</translation>
     </message>
     <message>
@@ -295,7 +295,7 @@
         <translation>Barra de pestañas</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>bitcoin core</translation>
     </message>
     <message>
@@ -450,7 +450,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>bitcoin core</translation>
     </message>
     <message>
@@ -469,7 +469,7 @@
         <translation>bienvenido</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>bitcoin core</translation>
     </message>
     <message>
@@ -923,7 +923,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>bitcoin core</translation>
     </message>
     <message>

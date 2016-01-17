@@ -167,8 +167,8 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core client</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ client</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ client</translation>
     </message>
     <message>
         <source>Bitcoin</source>
@@ -207,12 +207,12 @@
         <translation>Trợ &amp;giúp</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Về Bitcoin Core</translation>
+        <source>&amp;About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>&amp;Về _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -362,16 +362,16 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>version</source>
         <translation>version</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Về Bitcoin Core</translation>
+        <source>About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Về _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     </context>
 <context>
@@ -381,8 +381,8 @@
         <translation>Chào mừng</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Error</source>
@@ -577,8 +577,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     </context>
 <context>

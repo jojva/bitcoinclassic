@@ -263,8 +263,8 @@
         <translation>Atidaryti &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core klientas</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ client</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -315,8 +315,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Rodyti informaciją apie Bitcoin Core</translation>
+        <source>Show information about _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Rodyti informaciją apie _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -347,12 +347,12 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Apie Bitcoin Core</translation>
+        <source>&amp;About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>&amp;Apie _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Error</source>
@@ -606,7 +606,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -614,8 +614,8 @@
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Apie Bitcoin Core</translation>
+        <source>About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Apie _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -637,11 +637,11 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Sveiki atvykę į Bitcoin Core.</translation>
+        <source>Welcome to _REBRAND_TRANSLATION_SOFTWARE_NAME_.</source>
+        <translation>Sveiki atvykę į _REBRAND_TRANSLATION_SOFTWARE_NAME_.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -1229,7 +1229,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>

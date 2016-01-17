@@ -168,8 +168,8 @@
         <translation>Er du sikker på at du vil kryptere lommeboken?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -295,8 +295,8 @@
         <translation>Åpne &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core-klient</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ client</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_-klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -347,8 +347,8 @@
         <translation>&amp;Motta</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Vis informasjon om Bitcoin Core</translation>
+        <source>Show information about _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Vis informasjon om _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -387,20 +387,20 @@
         <translation>Verktøylinje for faner</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Forespør betalinger (genererer QR-koder og bitcoin: URIer)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Om Bitcoin Core</translation>
+        <source>&amp;About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>&amp;Om _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Endre konfigurasjonsvalg for Bitcoin Core</translation>
+        <source>Modify configuration options for _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Endre konfigurasjonsvalg for _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -419,8 +419,8 @@
         <translation>&amp;Kommandolinjevalg</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Vis Bitcoin Core hjelpemeldingen for å få en liste med mulige kommandolinjevalg</translation>
+        <source>Show the _REBRAND_TRANSLATION_SOFTWARE_NAME_ help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Vis _REBRAND_TRANSLATION_SOFTWARE_NAME_ hjelpemeldingen for å få en liste med mulige kommandolinjevalg</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -844,8 +844,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>version</source>
@@ -856,8 +856,8 @@
         <translation> (%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Om Bitcoin Core</translation>
+        <source>About _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Om _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -879,16 +879,16 @@
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Velkommen til Bitcoin Core.</translation>
+        <source>Welcome to _REBRAND_TRANSLATION_SOFTWARE_NAME_.</source>
+        <translation>Velkommen til _REBRAND_TRANSLATION_SOFTWARE_NAME_.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Siden dette er første gang programmet starter, kan du nå velge hvor Bitcoin Core skal lagre sine data.</translation>
+        <source>As this is the first time the program is launched, you can choose where _REBRAND_TRANSLATION_SOFTWARE_NAME_ will store its data.</source>
+        <translation>Siden dette er første gang programmet starter, kan du nå velge hvor _REBRAND_TRANSLATION_SOFTWARE_NAME_ skal lagre sine data.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core vil laste ned og lagre en kopi av Bitcoin sin blokkjede. Minst %1GB av data vil bli lagret i denne mappen, og det vil vokse over tid. Lommeboken vil også bli lagret i denne mappen.</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ vil laste ned og lagre en kopi av Bitcoin sin blokkjede. Minst %1GB av data vil bli lagret i denne mappen, og det vil vokse over tid. Lommeboken vil også bli lagret i denne mappen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -899,8 +899,8 @@
         <translation>Bruk en egendefinert datamappe:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -981,8 +981,8 @@
         <translation>Minimer i stedet for å avslutte applikasjonen når vinduet lukkes. Når dette er valgt, vil applikasjonen avsluttes kun etter at Avslutte er valgt i menyen.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
-        <translation>Språk for brukergrensesnittet kan velges her. Denne innstillingen trer i kraft etter omstart av Bitcoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting _REBRAND_TRANSLATION_SOFTWARE_NAME_.</source>
+        <translation>Språk for brukergrensesnittet kan velges her. Denne innstillingen trer i kraft etter omstart av _REBRAND_TRANSLATION_SOFTWARE_NAME_.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1009,12 +1009,12 @@
         <translation>&amp;Nettverk</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation>Start Bitcoin Core automatisk ved oppstart av datamaskinen.</translation>
+        <source>Automatically start _REBRAND_TRANSLATION_SOFTWARE_NAME_ after logging in to the system.</source>
+        <translation>Start _REBRAND_TRANSLATION_SOFTWARE_NAME_ automatisk ved oppstart av datamaskinen.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
-        <translation>&amp;Start Bitcoin Core ved oppstart av datamaskinen</translation>
+        <source>&amp;Start _REBRAND_TRANSLATION_SOFTWARE_NAME_ on system login</source>
+        <translation>&amp;Start _REBRAND_TRANSLATION_SOFTWARE_NAME_ ved oppstart av datamaskinen</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1443,8 +1443,8 @@
         <translation>Nåværende antall blokker</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åpne Bitcoin Core sin loggfil for feilsøk fra gjeldende datamappe. Dette kan ta noen sekunder for store loggfiler.</translation>
+        <source>Open the _REBRAND_TRANSLATION_SOFTWARE_NAME_ debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åpne _REBRAND_TRANSLATION_SOFTWARE_NAME_ sin loggfil for feilsøk fra gjeldende datamappe. Dette kan ta noen sekunder for store loggfiler.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1563,8 +1563,8 @@
         <translation>Tøm konsoll</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation>Velkommen til Bitcoin Core sin RPC-konsoll.</translation>
+        <source>Welcome to the _REBRAND_TRANSLATION_SOFTWARE_NAME_ RPC console.</source>
+        <translation>Velkommen til _REBRAND_TRANSLATION_SOFTWARE_NAME_ sin RPC-konsoll.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2141,8 +2141,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Bitcoin Core lukker...</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_ is shutting down...</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ lukker...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2291,12 +2291,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Bitcoin Core</translation>
+        <source>_REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core utviklerne</translation>
+        <source>The _REBRAND_TRANSLATION_SOFTWARE_NAME_ developers</source>
+        <translation>_REBRAND_TRANSLATION_SOFTWARE_NAME_ utviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2845,8 +2845,8 @@
         <translation>Dette er en forhåndssluppet testversjon - bruk på egen risiko - ikke for bruk til blokkutvinning eller bedriftsapplikasjoner</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Ute av stand til å binde til %s på denne datamaskinen. Bitcoin Core kjører sannsynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. _REBRAND_TRANSLATION_SOFTWARE_NAME_ is probably already running.</source>
+        <translation>Ute av stand til å binde til %s på denne datamaskinen. _REBRAND_TRANSLATION_SOFTWARE_NAME_ kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <source>WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)</source>
@@ -3037,8 +3037,8 @@
         <translation>Bind til gitt adresse for å lytte for JSON-RPC-tilkoblinger. Bruk [host]:port notasjon for IPv6. Dette alternativet kan angis flere ganger (standardverdi: bind til alle grensesnitt)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Ute av stand til å låse datamappen %s. Bitcoin Core kjører sannsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. _REBRAND_TRANSLATION_SOFTWARE_NAME_ is probably already running.</source>
+        <translation>Ute av stand til å låse datamappen %s. _REBRAND_TRANSLATION_SOFTWARE_NAME_ kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3133,8 +3133,8 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Advarsel: -paytxfee er satt veldig høyt! Så stort gebyr kan bli betalt ved en enkelt transaksjon.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
-        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Bitcoin Core fungere riktig.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong _REBRAND_TRANSLATION_SOFTWARE_NAME_ will not work properly.</source>
+        <translation>Advarsel: Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke _REBRAND_TRANSLATION_SOFTWARE_NAME_ fungere riktig.</translation>
     </message>
     <message>
         <source>Whitelisted peers cannot be DoS banned and their transactions are always relayed, even if they are already in the mempool, useful e.g. for a gateway</source>
@@ -3173,16 +3173,16 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Koble til via SOCKS5-proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i utviklerne av Bitcoin Core</translation>
+        <source>Copyright (C) 2009-%i The _REBRAND_TRANSLATION_SOFTWARE_NAME_ Developers</source>
+        <translation>Copyright (C) 2009-%i utviklerne av _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
         <translation>Kunne ikke tolke -rpcbind-verdi %s som en nettverksadresse</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Bitcoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of _REBRAND_TRANSLATION_SOFTWARE_NAME_</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av _REBRAND_TRANSLATION_SOFTWARE_NAME_</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3205,8 +3205,8 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Informasjon</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>Sunnhetssjekk ved oppstart feilet. Bitcoin Core stenges ned.</translation>
+        <source>Initialization sanity check failed. _REBRAND_TRANSLATION_SOFTWARE_NAME_ is shutting down.</source>
+        <translation>Sunnhetssjekk ved oppstart feilet. _REBRAND_TRANSLATION_SOFTWARE_NAME_ stenges ned.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3341,8 +3341,8 @@ for eksempel: alertnotify=echo %%s | mail -s "Bitcoin Alert" admin@foo.com
         <translation>Brukernavn for JSON-RPC forbindelser</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
-        <translation>Lommeboken måtte skrives på nytt: start Bitcoin Core på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart _REBRAND_TRANSLATION_SOFTWARE_NAME_ to complete</source>
+        <translation>Lommeboken måtte skrives på nytt: start _REBRAND_TRANSLATION_SOFTWARE_NAME_ på nytt for å fullføre</translation>
     </message>
     <message>
         <source>Warning</source>
